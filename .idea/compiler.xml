@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="t4.Tarea_4_Web.main" target="1.8" />
+      <module name="t4.Tarea_4_Web.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
